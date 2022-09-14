@@ -1,0 +1,17 @@
+{
+  "name": "projectimplementation",
+  "version": "1.0.0",
+  "description": "Creating a weather nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hetanshu Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "requests": "^0.3.0",
+    "url": "^0.11.0"
+  },
+  "devDependencies": {}
+}
